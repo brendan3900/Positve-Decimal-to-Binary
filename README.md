@@ -1,4 +1,4 @@
 # Positve-Decimal-to-Binary
-Objected oriented program that converts a positive decimal value to binary.
+This is an object-oriented program which was created to display on the screen the binary equivalent of a positive decimal number by using two different methods;
 
-Both a recursive method and an iterative method are used in this program to achieve the goal purpose.
+the first method was a recursive function and the second method was an iterative function implementing Stack. 
